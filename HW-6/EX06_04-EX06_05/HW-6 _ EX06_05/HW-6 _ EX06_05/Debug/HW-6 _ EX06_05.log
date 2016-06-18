@@ -1,0 +1,5 @@
+﻿  HW-6 _ EX06_05.cpp
+  Complex Class Functions.cpp
+  Generating Code...
+c:\users\aaron c meyers\desktop\hw-6\ex06_04-ex06_05\hw-6 _ ex06_05\hw-6 _ ex06_05\complex class functions.cpp(116): warning C4715: 'Complex::operator[]': not all control paths return a value
+  HW-6 _ EX06_05.vcxproj -> C:\Users\Aaron C Meyers\Desktop\HW-6\EX06_04-EX06_05\HW-6 _ EX06_05\Debug\HW-6 _ EX06_05.exe
