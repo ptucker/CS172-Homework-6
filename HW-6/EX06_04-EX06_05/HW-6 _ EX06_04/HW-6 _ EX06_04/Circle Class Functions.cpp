@@ -48,6 +48,10 @@ int Circle::getNumberOfObjects() // Returns the number of class objects that hav
 // Returns the radius
 double& Circle::operator< (const Circle& FirstCircle) const
 {
+	//PT -- I'm not sure why you need PrevRadius. You compare FirstCircle with this
+	//16/20
+	
+	
 	// This loop will go through the "PrevRadius" array
 	// The loop will end once it returns the radius value in the array back to the user
 	for (int j = 0; j < i; j++)
